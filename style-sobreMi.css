@@ -1,0 +1,116 @@
+.cabecera{
+    font-family: sans-serif;
+    width: 266px;
+    height: 565px;
+    float: left;
+    position: fixed;
+}
+.sobreMi{
+    font-family: sans-serif;
+}
+
+
+
+.cabecera::-webkit-scrollbar{
+    width: 10px;
+}
+
+.cabecera::-webkit-scrollbar-thumb{
+    background: powderblue;
+}
+
+.textos{
+    margin-left: 40px;
+}
+
+h1{
+    font-size: 55px;
+    margin-bottom: 30px;
+    padding-top: 50px;
+}
+
+h1 a{
+    text-decoration: none;
+    color: black;
+}
+
+h1 a:hover{
+    color: rgb(95, 95, 95);
+}
+
+.subtitulos{
+    margin-bottom: 30px;
+}
+
+.subtitulos h2{
+    font-size: 12px;
+    color: rgb(95, 95, 95);
+    
+}
+
+.menu{
+    margin-bottom: 100px;
+}
+
+.menu a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #000000;
+}
+
+
+
+.redes li{
+    display: inline;
+}
+
+.redes{
+    margin-bottom: 40px;
+}
+
+.pequena{
+  width: 30px;
+}
+
+.pie{
+    font-size: 12px;
+    color: rgb(95, 95, 95);
+    text-align:left;
+}
+
+.sobreMi{
+    margin-top:60px;    
+    width: 1020px;
+    height: auto;
+    float: right;
+}
+
+.fotoBiografia{
+    width: 320px;
+    height: auto;
+    float: left;
+}
+
+.fotoBiografia img{
+    width: 100%;
+
+}
+
+.biografia{
+    font-size: 20px;
+    width: 500px;
+    float: left;
+    padding-left: 50px;
+}
+
+.biografia h2{
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.biografia p{
+    font-size: 15px;
+    line-height: 25px;
+}
+

@@ -1,0 +1,219 @@
+.cabecera{
+    font-family: sans-serif;
+    width: 266px;
+    height: 565px;
+    float: left;
+    position: fixed;
+}
+
+
+
+.cabecera::-webkit-scrollbar{
+    width: 10px;
+}
+
+.cabecera::-webkit-scrollbar-thumb{
+    background: powderblue;
+}
+
+.textos{
+    margin-left: 40px;
+}
+
+h1{
+    font-size: 55px;
+    margin-bottom: 30px;
+    padding-top: 50px;
+}
+
+h1 a{
+    text-decoration: none;
+    color: black;
+}
+
+h1 a:hover{
+    color: rgb(95, 95, 95);
+}
+
+.subtitulos{
+    margin-bottom: 30px;
+}
+
+.subtitulos h2{
+    font-size: 12px;
+    color: rgb(95, 95, 95);
+    
+}
+
+
+
+
+
+.menu{
+    margin-bottom: 100px;
+}
+
+.menu a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #000000;
+}
+
+
+
+
+
+
+
+
+.redes li{
+    display: inline;
+}
+
+.redes{
+    margin-bottom: 40px;
+}
+
+.pequena{
+  width: 30px;
+}
+
+.pie{
+    font-size: 12px;
+    color: rgb(95, 95, 95);
+    text-align:left;
+}
+
+.imagenes{
+    margin-top:60px;    
+    width: 1020px;
+    height: auto;
+    float: right;
+}
+
+.columna1{
+    width: 510px;
+    float: left;
+}
+
+.foto1{
+    width: 472px;
+    height: 709px;
+    margin-left: 0px;
+}
+
+.foto1 img{
+    width: 100%;
+    height: auto;
+}
+
+.foto2{
+    width: 472px;
+    height: 315px;
+    margin-top: 50px;
+}
+
+.foto2 img{
+    width: 100%;
+    height: auto;
+}
+
+.foto3{
+    width: 472px;
+    height: 315px;
+    margin-top: 50px;
+}
+
+.foto3 img{
+    width: 100%;
+    height: auto;
+}
+
+.foto4{
+    width: 472px;
+    height: auto;
+    margin-top: 50px;
+}
+
+.foto4 img{
+    width: 100%;
+    height: auto;
+}
+
+.foto5{
+    width: 472px;
+    height: 315px;
+    margin-top: 50px;
+}
+
+.foto5 img{
+    width: 100%;
+    height: auto;
+}
+
+.columna2{
+    width: 510px;
+    float: right;
+}
+
+.foto6{
+    width: 472px;
+    height: 315px;
+    margin-left: 12px;
+}
+
+.foto6 img{
+    width: 100%;
+    height: auto;
+}
+
+.foto7{
+    width: 472px;
+    height: 315px;
+    margin-top: 50px;
+    margin-left: 12px;
+}
+
+.foto7 img{
+    width: 100%;
+    height: auto;
+}
+
+.foto8{
+    width: 472px;
+    height: 709px;
+    margin-top: 50px;
+    margin-left: 12px;
+}
+
+.foto8 img{
+    width: 100%;
+    height: auto;
+}
+
+.foto9{
+    width: 472px;
+    height: 315px;
+    margin-top: 50px;
+    margin-left: 12px;
+}
+
+.foto9 img{
+    width: 100%;
+    height: auto;
+}
+
+.foto10{
+    width: 472px;
+    height: 315px;
+    margin-top: 50px;
+    margin-left: 12px;
+}
+
+.foto10 img{
+    width: 100%;
+    height: auto;
+}
+
+
